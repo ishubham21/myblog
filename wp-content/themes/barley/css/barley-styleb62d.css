@@ -13487,3 +13487,8 @@ a.entry-author__name,
 .barley-design .site-footer__section .site-footer__section-right p {
     font-family: Raleway, Arial, Helvetica, sans-serif;
 }
+@media only screen and (min-device-width:300px) and (max-device-width:700px){
+  ..barley-design .atbs-featured-slider .post__text{
+    background: rgba(0,0,0,0.6);
+  }
+}

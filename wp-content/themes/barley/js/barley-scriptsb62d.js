@@ -965,6 +965,8 @@ console.log(position);
 					    768 : {
 					        items: 1,
 					    },
+                        autoplay:true,
+                        autoplayTimeout: 3000,
 					},
 				});
 			})
